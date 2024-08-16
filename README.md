@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/k4lFer">
-          <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,idea,rider,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,idea,rider,androidstudio,spring&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
