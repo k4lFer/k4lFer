@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,postman,windows,linux&perline=14" />
+          <img src="https://skillicons.dev/icons?i=vscode,mysql,postgre,sqlite,git,postman,windows,linux&perline=14" />
         </a>
       </p>
 <br>
