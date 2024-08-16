@@ -13,3 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br/>
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block">Languages and tools 👨🏻‍💻</h2></summary>
+    </ul>
+  </div>
+  <h3>Languages</h3>
+    <p align="left">
+      <a href="https://github.com/Lionnos">
+        <img src="https://skillicons.dev/icons?i=cs,java,py,php,ts&perline=14" />
+      </a>
+    </p>
+  <h3>Frameworks, IDEs and Libraries</h3>
+      <p align="left">
+        <a href="https://github.com/Lionnos">
+          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,idea,rider,androidstudio&perline=14" />
+        </a>
+      </p>
+  <h3>Others</h3>
+      <p align="left">
+        <a href="https://github.com/Lionnos">
+          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,postman,bootstrap,arduino,windows,linux&perline=14" />
+        </a>
+      </p>
+<br>
