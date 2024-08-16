@@ -28,13 +28,13 @@ Here are some ideas to get you started:
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,idea,rider,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=dotnet,django,visualstudio,idea,rider,androidstudio&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,postman,bootstrap,arduino,windows,linux&perline=14" />
+          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,postman,windows,linux&perline=14" />
         </a>
       </p>
 <br>
