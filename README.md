@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <h3>Languages</h3>
     <p align="left">
       <a href="https://github.com/Lionnos">
-        <img src="https://skillicons.dev/icons?i=cs,java,py,js,ts&perline=14" />
+        <img src="https://skillicons.dev/icons?i=cs,java,py,js,ts,kotlin&perline=14" />
       </a>
     </p>
   <h3>Frameworks, IDEs and Libraries</h3>
